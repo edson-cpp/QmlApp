@@ -1,0 +1,41 @@
+# Build
+build/
+build-*/
+cmake-build-*/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# Ninja
+.ninja_deps
+.ninja_log
+
+# Qt Creator
+*.pro.user
+*.pro.user.*
+*.creator
+*.creator.user
+*.creator.user.*
+
+# Objetos
+*.o
+*.obj
+
+# Bibliotecas
+*.a
+*.so
+*.dll
+*.dylib
+
+# Executáveis
+*.exe
+
+# VSCode
+.vscode/
+
+# Backup
+*~
