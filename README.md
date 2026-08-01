@@ -84,14 +84,6 @@ Click Build Project "QmlApp"
 
 ---
 
-## Running
-
-```
-./build/QmlApp
-```
-
----
-
 ## Project Structure
 
 ```
