@@ -12,17 +12,17 @@ This project was developed as part of a technical assessment and demonstrates RE
 
 ✅ Retrieve a single episode by ID
 
-✅ Responsive QML interface
-
-✅ Loading indicator
-
 ✅ Error handling
-
-✅ Clean MVVM-inspired architecture
 
 ---
 
 ## Screenshots
+
+### Main
+
+<p align="center">
+<img src="docs/main.png" width="700">
+</p>
 
 ### Character
 
@@ -66,7 +66,7 @@ Episode endpoint
 GET /episode/{id}
 ```
 
-The assessment focuses specifically on retrieving a single character and a single episode by ID, using the official REST endpoints. :contentReference[oaicite:0]{index=0}
+The assessment focuses specifically on retrieving a single character and a single episode by ID, using the official REST endpoints.
 
 ---
 
@@ -95,29 +95,12 @@ cmake --build build
 ## Project Structure
 
 ```
-src/
  ├── main.cpp
- ├── ApiClient.cpp
- ├── ApiClient.h
-
-qml/
  ├── Main.qml
- ├── CharacterPage.qml
- ├── EpisodePage.qml
+ ├── Character.qml
+ ├── Episode.qml
 
-resources/
 ```
-
----
-
-## Future Improvements
-
-- Character search by name
-- Episode search by code
-- Pagination
-- Favorites
-- Offline cache
-- Unit tests
 
 ---
 
