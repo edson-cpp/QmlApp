@@ -16,7 +16,12 @@ qt_add_qml_module(appQmlApp
     URI QmlApp
     VERSION 1.0
     QML_FILES
-        Main.qml
+    Main.qml
+    QML_FILES Episode.qml
+    QML_FILES Character.qml
+    RESOURCES
+        rick_and_morty.jpg
+        search.png
 )
 
 # Qt for iOS sets MACOSX_BUNDLE_GUI_IDENTIFIER automatically since Qt 6.1.
