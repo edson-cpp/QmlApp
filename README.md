@@ -75,11 +75,11 @@ The assessment focuses specifically on retrieving a single character and a singl
 ```bash
 git clone git@github.com:edson-cpp/QmlApp.git
 
-cd QmlApp
+Open project on Qt Creator 6
 
-cmake -B build
+Access Build menu
 
-cmake --build build
+Click Build Project "QmlApp"
 ```
 
 ---
