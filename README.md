@@ -20,13 +20,13 @@ This project was developed as part of a technical assessment and demonstrates RE
 
 ### Main
 
-<p align="left">
+<p align="center">
 <img src="docs/main.png" width="700">
 </p>
 
 ### Character
 
-<p align="left">
+<p align="center">
 <img src="docs/character.png" width="700">
 </p>
 
@@ -42,13 +42,13 @@ This project was developed as part of a technical assessment and demonstrates RE
 
 ### English version
 
-<p align="center">
+<p align="left">
 <a target="_blank" href="https://youtu.be/ZIFD0KW5GsU">Qt6 QML Project for consuming the Rick and Morty API</a>
 </p>
 
 ### Portuguese Version
 
-<p align="center">
+<p align="left">
 <a target="_blank" href="https://youtu.be/qZH_Tbm2mNE">Projeto em Qt6 QML para consumo de API Rick and Morty</a>
 </p>
 
