@@ -38,6 +38,22 @@ This project was developed as part of a technical assessment and demonstrates RE
 
 ---
 
+## Videos
+
+### English version
+
+<p align="center">
+<a href="docs/main.png" width="700">
+</p>
+
+### Portuguese Version
+
+<p align="center">
+<a href="https://youtu.be/qZH_Tbm2mNE">Projeto em Qt6 QML para consumo de API Rick and Morty</a>
+</p>
+
+---
+
 ## Technologies
 
 - Qt 6
