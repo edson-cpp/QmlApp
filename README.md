@@ -43,13 +43,13 @@ This project was developed as part of a technical assessment and demonstrates RE
 ### English version
 
 <p align="left">
-<a href="https://youtu.be/ZIFD0KW5GsU" target="_blank">Qt6 QML Project for consuming the Rick and Morty API</a>
+<a href="https://youtu.be/ZIFD0KW5GsU" target="_blank" rel="noopener noreferrer">Qt6 QML Project for consuming the Rick and Morty API</a>
 </p>
 
 ### Portuguese Version
 
 <p align="left">
-<a href="https://youtu.be/qZH_Tbm2mNE" target="_blank">Projeto em Qt6 QML para consumo de API Rick and Morty</a>
+<a href="https://youtu.be/qZH_Tbm2mNE" target="_blank" rel="noopener noreferrer">Projeto em Qt6 QML para consumo de API Rick and Morty</a>
 </p>
 
 ---
