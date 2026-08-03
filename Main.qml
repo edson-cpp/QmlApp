@@ -98,36 +98,3 @@ Window {
         }
     }
 }
-
-    /*Column {
-        anchors.centerIn: parent
-        spacing: 50
-
-        Button {
-            text: "Get Episode"
-
-            width: 200
-            height: 40
-
-            onClicked: {
-                var api = new XMLHttpRequest();
-
-                api.onreadystatechange = function() {
-                    //if (api.readyState === XMLHttpRequest.apply()) {
-                        if (api.status === 200) {
-                            console.log(api.responseText);
-
-                            var dados = JSON.parse(api.responseText);
-                            console.log(dados);
-                        } else {
-                            console.log("Erro");
-                        }
-                    //}
-                }
-
-                api.open("GET", "https://rickandmortyapi.com/api/episode/28");
-                api.send();
-            }
-        }
-    }*/
-
