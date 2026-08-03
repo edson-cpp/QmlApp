@@ -20,13 +20,13 @@ This project was developed as part of a technical assessment and demonstrates RE
 
 ### Main
 
-<p align="center">
+<p align="left">
 <img src="docs/main.png" width="700">
 </p>
 
 ### Character
 
-<p align="center">
+<p align="left">
 <img src="docs/character.png" width="700">
 </p>
 
